@@ -1,0 +1,1 @@
+## This project is to learn data ingestion, operations on the data and viewing it as a human readable information.
